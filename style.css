@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+img{
+    width: 100px;
+    height:100px;
+    margin: 30px;
+    filter: blur(10px);
+    
+}
+p{
+    font-size: 9px;
+    filter: blur(10px);
+}
+button{
+    color:black;
+    background-color: cyan;
+}
